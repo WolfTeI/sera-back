@@ -33,3 +33,6 @@ coverage/
 # Miscellaneous
 .DS_Store
 Thumbs.db
+
+# Jest
+# Jest is used by Facebook to run tests. It is assumed you're not using it or
